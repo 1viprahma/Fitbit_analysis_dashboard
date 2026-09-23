@@ -44,7 +44,6 @@ Seasonal Trends: Quarterly fluctuations in AOV help forecast high-performing sal
 ```text
 ├── Dashboard/
 │   ├── fitbit_dashboard.pbix   # The main Power BI file
-│   └── screenshots/            # Dashboard preview images
 ├── Data/
 │   └── raw_data.csv            # Cleaned dataset used for the project
 └── README.md                   # Project documentation
